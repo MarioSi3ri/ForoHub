@@ -256,7 +256,7 @@ Para ejecutar las pruebas automatizadas:
 
 ## 👤 Autor
 
-Desarrollado por **[Mario Si3ri](https://github.com/MarioSi3ri)** 💻
+Desarrollado por **[MarioSi3ri](https://github.com/MarioSi3ri)** 💻
 
 Repositorio: [ForoHub](https://github.com/MarioSi3ri/ForoHub)
 
