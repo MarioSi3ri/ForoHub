@@ -260,6 +260,18 @@ Para ejecutar las pruebas automatizadas:
 
 Desarrollado por **[Mario Si3ri](https://github.com/MarioSi3ri)** 💻
 
+Repositorio: [ForoHub](https://github.com/MarioSi3ri/ForoHub)
+
+</div>
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
+
+---
+
+<div align="center">
+
 Si este proyecto te resulta útil, ¡considera dejar una ⭐ en el repositorio!
 
 </div>
