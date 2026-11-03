@@ -256,9 +256,9 @@ Para ejecutar las pruebas automatizadas:
 
 ## 👤 Autor
 
-Desarrollado por **[MarioSi3ri](https://github.com/MarioSi3ri)** 💻
-
-Repositorio: [ForoHub](https://github.com/MarioSi3ri/ForoHub)
+- Desarrollado por **[MarioSi3ri](https://github.com/MarioSi3ri)** 💻
+- Repositorio: [ForoHub](https://github.com/MarioSi3ri/ForoHub)
+- Copilot ayudó a mejorar el presente archivo README.
 
 ## 📄 Licencia
 
